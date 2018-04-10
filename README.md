@@ -23,7 +23,7 @@ Sadly, that is basically the only way to make a *real* bot. It is possible to do
 ## Why did my bot get deleted/declined?
 Refer to #bot-list-log, it'll tell you there. Common reasons for a bot getting denied are:
 ### Offline for too long
-A bot can only be accepted if it is online for most of it's existance. I recommend hosting your bot on a dedicated server, however I'm not going to go into too much detail on that, sorry.
+A bot can only be accepted if it is online for most of it's existance. I recommend hosting your bot on a dedicated server, however I'm not going to go into too much detail on that, sorry. But, I recommend you use Digital Ocean. They're pretty reliable, helpful, have a lot of tutorials and have reasonable prices too. Use [this link](https://m.do.co/c/883e6bb18ff1) to get $10 in credit on their site.
 ### Something about a clone?
 Means you copied the bot off of GitHub or another site. Making your own original bot makes this problem disappear.
 ### Autoresponse

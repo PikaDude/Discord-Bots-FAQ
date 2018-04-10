@@ -28,9 +28,19 @@ A bot can only be accepted if it is online for most of it's existance. I recomme
 Means you copied the bot off of GitHub or another site. Making your own original bot makes this problem disappear.
 ### Autoresponse
 Means your bot responded to an ordinary message/without prompt. Read the [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices) or just make your bot respond only to commands.
+### No description
+You gotta put *something* in the description. Also make it accurate, don't lie.
+### Not responding to the listed prefix
+The bot wasn't responding to any commands with the listed prefix. The bot *was* online, just unresponsive. Either you got the prefix wrong or you changed it after you requested your bot to be listed.
 
 ## I've been waiting for a while, why isn't my bot verified yet?
 It takes a while for your bot to get verified. Remember, you're not the only person in the world who wants to get their bot added to the most popular Discord Bot List site. Please be patient, asking about it, pinging Moderators or Helpers asking why will actually decrease your chances of it getting verified.
+
+## I can't edit my bots page! What do I do?
+You can only edit your bots page once it is verified. If you've made a mistake, or you would like to get it changed, simply ask a Moderator or Helper nicely to delete your bot. This will allow you to re-add it and hopefully correct that mistake you made.
+
+## How the hell does anyone get a bot verified on this list? It's impossible!
+It's not impossible, over 1000 bots are on the list. Try reading through this entire FAQ. If the answer isn't here, ask in the server.
 
 ## How can I add my bot to the bot list?
 Go to the [homepage](https://bots.discord.pw/), press login in the top right, authorize yourself, press "Add Bot", and enter the required information. The information required that is often asked about is:
@@ -44,6 +54,9 @@ Read `How do I make a Discord Bot?`, specifically step 2.
 ## How do I invite my bot / How do I make an Invite URL / How do I add my bot to my server?
 The simplest URL is as follows, replace `REPLACEME` with your bots client ID found on your bots application page. If you do not know what that is, I suggest you read `How do I make a Discord Bot?`, specifically step 3.
 `https://discordapp.com/oauth2/authorize?client_id=REPLACEME&scope=bot`
+
+## Ew! An NSFW channel! How can I hide it?
+Type `%roleme No NSFW` to hide it. Type it again to show it.
 
 ## Something something Discord Bot List
 This isn't Discord Bot List. We do things differently here (for the better usually).

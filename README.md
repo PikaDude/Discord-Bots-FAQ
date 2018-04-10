@@ -61,4 +61,4 @@ There's a high chance that what you did was definitely against the rules. Whilst
 Because you most likely just executed a command in #general. This channel is used for talking and it would be nice if you did not use commands in this channel. As you probably have realised, there are thousands of bots in this server, and executing one command often makes hundreds respond. This is typically annoying and it would be really good if you did this in any of the channels marked as "testing" in their name.
 
 
-Feel free to contribute to this and add anything else that may seem important.
+#Feel free to contribute to this and add anything else that may seem important.

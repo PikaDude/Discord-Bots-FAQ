@@ -1,6 +1,6 @@
-# Discord-Bot-FAQ
+# Discord Bots FAQ
 
-Hi! This is my go-to link for questions that are often asked about Discord Bots.
+Hi! This is a go-to link for questions that are often asked about Discord Bots (the server and actual bots). I know that there's a lot here and I don't expect anyone to read *all* of this, but this is more of a cheat sheet than a list of rules. If you have any questions about the server, about bots, or anything else, I recommend you check here first before asking.
 
 ## How do I make a Discord Bot?
 First off you need to know how to code. Creating a bot is not as simple as it sounds. There are many tutorials out there on how to make one, so here's another bare bones one.
@@ -19,6 +19,12 @@ Great! Your bot is now running! It probably won't do anything at this point, so 
 
 ## That's all too complicated and hard! I want to make a bot now!!!
 Sadly, that is basically the only way to make a *real* bot. It is possible to download (clone) a bot off of GitHub, however, this means that the bot isn't exactly *yours*. All you've done is copied someone elses. This means that your bot has a high chance of not being added to a bot list as it is not yours. It is possible to get it added, but if you're reading this, I'm not even going to bother explaing how, because the chances are literally a million to 1.
+
+## Why is everyone screaming at me to go to testing?
+Because you most likely just executed a command in #general. This channel is used for talking and it would be nice if you did not use commands in this channel. As you probably have realised, there are thousands of bots in this server, and executing one command often makes hundreds respond. This is typically annoying and it would be really good if you did this in any of the channels marked as "testing" in their name.
+
+## I need help regarding a specific bot.
+This is not a support server for bots. Find that bots **specific** Discord Server and ask there. This server is more regarding the development of bots and of the like.
 
 ## Why did my bot get deleted/declined?
 Refer to #bot-list-log, it'll tell you there. Common reasons for a bot getting denied are:
@@ -69,9 +75,6 @@ No. No. No. No. No. No. No. No. Also no. Do not even try.
 
 ## I got banned for something that wasn't against the rules.
 There's a high chance that what you did was definitely against the rules. Whilst the rules are not explicitly stated, a general rule of "common sense" is in place. If you break a rule that does not fall under this category, people will warn you about it before taking action.
-
-## Why is everyone screaming at me to go to testing?
-Because you most likely just executed a command in #general. This channel is used for talking and it would be nice if you did not use commands in this channel. As you probably have realised, there are thousands of bots in this server, and executing one command often makes hundreds respond. This is typically annoying and it would be really good if you did this in any of the channels marked as "testing" in their name.
 
 
 # Feel free to contribute to this and add anything else that may seem important.

@@ -40,7 +40,7 @@ You gotta put *something* in the description. Also make it accurate, don't lie.
 The bot wasn't responding to any commands with the listed prefix. The bot *was* online, just unresponsive. Either you got the prefix wrong or you changed it after you requested your bot to be listed.
 
 ## I've been waiting for a while, why isn't my bot verified yet?
-It takes a while for your bot to get verified. Remember, you're not the only person in the world who wants to get their bot added to the most popular Discord Bot List site. Please be patient, asking about it, pinging Moderators or Helpers asking why will actually decrease your chances of it getting verified.
+It takes a while for your bot to get verified. From a few days to several weeks. Remember, you're not the only person in the world who wants to get their bot added to the list, there are hundreds of bots in the queue, and each one needs to be manually checked to see if it fits in the guidelines. Please be patient, asking about it or pinging Moderators or Helpers will decrease your chances of it getting verified.
 
 ## I can't edit my bots page! What do I do?
 You can only edit your bots page once it is verified. If you've made a mistake, or you would like to get it changed, simply ask a Moderator or Helper nicely to delete your bot. This will allow you to re-add it and hopefully correct that mistake you made.

@@ -19,6 +19,7 @@ Great! Your bot is now running! It probably won't do anything at this point, so 
 
 ## That's all too complicated and hard! I want to make a bot now!!!
 Sadly, that is basically the only way to make a *real* bot. It is possible to download (clone) a bot off of GitHub, or a similar site, however, this means that the bot isn't exactly *yours*. All you've done is copied someone elses. This means that your bot has a high chance of not being added to a bot list (such as Discord Bots) as it is not yours. It is possible to get it added only if **you've heavily modified it to the point that you might as well have created your own bot from scratch**.
+![Don't Be Like This](/img/i-made-this.jpg "Don't Be Like This")
 
 ## Why is everyone screaming at me to go to testing?
 Because you most likely just executed a command in #general. This channel is used for talking and it would be nice if you did not use commands in this channel. As you probably have realised, there are thousands of bots in this server, and executing one command often makes hundreds respond. This is typically annoying and it would be really good if you did this in any of the channels marked as "testing" in their name.

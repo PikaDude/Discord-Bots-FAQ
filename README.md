@@ -3,7 +3,7 @@
 <!-- [Other text][Link] -->
 
 <!-- Support/Tutorial sites -->  
-[Codecadamy]: https://www.codecademy.com/  
+[Codecademy]: https://www.codecademy.com/  
 [StackOverflow]: https://stackoverflow.com/  
 
 <!-- Discords -->  
